@@ -14,9 +14,11 @@ The primary purpose of this project was to analyze weather patterns on the islan
 From the data tables below that were developed through analyzing the sqlite database, three observations can be made:
 
 June Measurements
+
 ![](juneTempData.png)
 
 Decemeber Measurements
+
 ![](decTempData.png)
 
 1. The tempurature ranges for both months appear to be within very similar ranges.
